@@ -1,0 +1,40 @@
+{
+  "name": "101331074_comp3133_assignment1",
+  "version": "1.0.0",
+  "description": "COMP3133 Assignment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubielawbar/101331074_COMP3133_Assignment1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "graphql",
+    "express",
+    "mongoose",
+    "api",
+    "endpoints",
+    "server"
+  ],
+  "author": "Oluwatobi H. Giwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toubielawbar/101331074_COMP3133_Assignment1/issues"
+  },
+  "homepage": "https://github.com/toubielawbar/101331074_COMP3133_Assignment1#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
